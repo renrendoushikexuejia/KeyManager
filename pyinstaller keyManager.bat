@@ -1,0 +1,1 @@
+pyinstaller -w -i key.ico KeyManager.py
